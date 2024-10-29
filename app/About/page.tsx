@@ -61,7 +61,7 @@ const About = () => {
         
         <div className="text-gray-200  text-lg lg:w-1/2 leading-relaxed text-center lg:text-left">
           <p className='ml-16'>
-            Hi, I'm Anju Mol George, a frontend developer dedicated to crafting seamless and engaging web experiences. With a strong foundation in Next.js, React, TypeScript, JavaScript, CSS, and HTML, I specialize in creating dynamic, user-friendly interfaces. I’m passionate about using the latest frameworks and libraries to deliver innovative solutions that meet both aesthetic and functional needs.
+            Hi, I m Anju Mol George, a frontend developer dedicated to crafting seamless and engaging web experiences. With a strong foundation in Next.js, React, TypeScript, JavaScript, CSS, and HTML, I specialize in creating dynamic, user-friendly interfaces. I’m passionate about using the latest frameworks and libraries to deliver innovative solutions that meet both aesthetic and functional needs.
           </p>
           <br />
           <p className='ml-16'>
